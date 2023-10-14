@@ -1,0 +1,6 @@
+flask
+matplotlib
+seaborn
+sklearn
+numpy
+pandas
